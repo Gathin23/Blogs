@@ -151,7 +151,7 @@ Docs: [readContract](https://viem.sh/docs/contract/readContract.html#readcontrac
 
 ### Write Contract
 
-Here is how I implemented the function to read from the Contract.
+Here is how I implemented the function to write from the Contract.
 
 ```typescript
  //ETHERS.JS
