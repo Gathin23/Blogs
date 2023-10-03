@@ -1,10 +1,10 @@
 ---
-title: "My guide on how I did my First Opensource Contribution - A Unique Approach for Developers"
+title: "A Guide to Your First Open-Source Contribution - A Unique Approach for Developers"
 seoTitle: "Mastering Open Source: Tips for Effective Contributions"
 seoDescription: ""Learn how to make impactful open-source contributions. Gain insights into effective collaboration, communication, and coding in the world of open source."
 datePublished: Tue Oct 03 2023 10:19:00 GMT+0000 (Coordinated Universal Time)
 cuid: clna63gfo000c0amo30y4dku1
-slug: my-guide-on-how-i-did-my-first-opensource-contribution-a-unique-approach-for-developers
+slug: a-guide-to-your-first-open-source-contribution-a-unique-approach-for-developers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696328136473/a50b87e9-1ceb-4a80-b3e3-b0008beb01a9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696328221599/bef187b4-bd0f-4e33-88bb-9f4562799ec5.png
 tags: programming-blogs, github, opensource, developer, coding
